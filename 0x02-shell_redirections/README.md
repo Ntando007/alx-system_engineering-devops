@@ -14,7 +14,7 @@ Working with Shell, Standard Input & Standard output Redirections and filters.
 
 6-third_line: Disply specific line only in a file.
 
-7-file: Creating file using shell script.
+7-file: Creating file in shell.
 
 8-cwd_state: Save current state of directory.
 
